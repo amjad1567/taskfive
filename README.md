@@ -19,7 +19,6 @@ Clone this repository to your local machine:
 git clone https://github.com/Amjad1567/taskfive.git
 Navigate into the repository directory:
 cd taskfive
-Open scan_results.txt to view the Nmap scan results:
-cat portscan_results.txt
+Open portscan_results.txt to view the Nmap scan results:
 cat portscan_results.txt
 
